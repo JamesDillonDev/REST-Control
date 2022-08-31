@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RestApp</string>
+    <string name="button">Button</string>
+    <string name="textview">TextView</string>
+    <string name="relay_1">Relay 1</string>
+    <string name="on">ON</string>
+    <string name="off">OFF</string>
+    <string name="toggle">TOGGLE</string>
+    <string name="relay_control">Relay Control</string>
+</resources>
